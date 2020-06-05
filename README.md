@@ -11,8 +11,3 @@ Everyone is encouraged to help improve this project in following ways:
 
 ## License
 MIT
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-
