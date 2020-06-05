@@ -1,5 +1,3 @@
-[![Beerpay](https://beerpay.io/kanthvallampati/shipment_tracker_for_woocommerce/badge.svg?style=beer-square)](https://beerpay.io/kanthvallampati/shipment_tracker_for_woocommerce)  
-[![Beerpay](https://beerpay.io/kanthvallampati/shipment_tracker_for_woocommerce/make-wish.svg?style=flat-square)](https://beerpay.io/kanthvallampati/shipment_tracker_for_woocommerce?focus=wish)
 [![PayPal.me](https://img.shields.io/badge/paypal-donate-119fde.svg)](https://www.paypal.me/LakshmikanthV)
 
 # Shipment Tracker for WooCommerce
